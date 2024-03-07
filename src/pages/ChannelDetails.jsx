@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "0ee9542e9cmsh51c64a99aa8a45bp1d8d32jsndae864e2e406",
+    "X-RapidAPI-Key": "a0092c8544msha200e2d6523b3dcp1dd471jsn8afd39ab8fa9",
     "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
   },
 };

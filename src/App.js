@@ -5,18 +5,17 @@ import { VideoProvider } from "./hooks/VideoProvider";
 
 function App() {
   return (
-    <VideoProvider>
-      <BrowserRouter>
+    <BrowserRouter>
+      <VideoProvider>
         <Navbar />
-
         <Routes>
-          <Route index element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/video/:id" element={<VideoDetails />} />
           <Route path="/channel/:id" element={<ChannelDetails />} />
           <Route path="/search/:searchTerm" element={<Search />} />
         </Routes>
-      </BrowserRouter>
-    </VideoProvider>
+      </VideoProvider>
+    </BrowserRouter>
   );
 }
 export default App;
