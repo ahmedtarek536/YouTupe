@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YouTupe/static/css/main.8759e9de.css",
-    "main.js": "/YouTupe/static/js/main.064c1064.js",
+    "main.js": "/YouTupe/static/js/main.6e7a77a6.js",
     "index.html": "/YouTupe/index.html",
     "main.8759e9de.css.map": "/YouTupe/static/css/main.8759e9de.css.map",
-    "main.064c1064.js.map": "/YouTupe/static/js/main.064c1064.js.map"
+    "main.6e7a77a6.js.map": "/YouTupe/static/js/main.6e7a77a6.js.map"
   },
   "entrypoints": [
     "static/css/main.8759e9de.css",
-    "static/js/main.064c1064.js"
+    "static/js/main.6e7a77a6.js"
   ]
 }
